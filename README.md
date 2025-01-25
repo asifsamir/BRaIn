@@ -162,19 +162,33 @@ Learn more about PyTorch with CUDA support and working with other versions [here
 
 
 
-## Citation
-Consider citing our work if you find it useful for your research.
+[//]: # (## Citation)
 
-### ArXiv
-```
-@misc{samir2025improvedirbasedbuglocalization,
-      title={Improved IR-based Bug Localization with Intelligent Relevance Feedback}, 
-      author={Asif Mohammed Samir and Mohammad Masudur Rahman},
-      year={2025},
-      eprint={2501.10542},
-      archivePrefix={arXiv},
-      primaryClass={cs.SE},
-      url={https://arxiv.org/abs/2501.10542}, 
-}
-```
-   
+[//]: # (Consider citing our work if you find it useful for your research.)
+
+[//]: # ()
+[//]: # (### ArXiv)
+
+[//]: # (```)
+
+[//]: # (@misc{samir2025improvedirbasedbuglocalization,)
+
+[//]: # (      title={Improved IR-based Bug Localization with Intelligent Relevance Feedback}, )
+
+[//]: # (      author={Asif Mohammed Samir and Mohammad Masudur Rahman},)
+
+[//]: # (      year={2025},)
+
+[//]: # (      eprint={2501.10542},)
+
+[//]: # (      archivePrefix={arXiv},)
+
+[//]: # (      primaryClass={cs.SE},)
+
+[//]: # (      url={https://arxiv.org/abs/2501.10542}, )
+
+[//]: # (})
+
+[//]: # (```)
+
+[//]: # (   )
