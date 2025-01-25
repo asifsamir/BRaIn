@@ -1,0 +1,2 @@
+from .TFIDFAnalyzer_file import TFIDFAnalyzer
+from .Tf_IDF_Analyzer_manager import TfIDF_Analyzer_manager
