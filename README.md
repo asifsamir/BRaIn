@@ -4,7 +4,7 @@
 Accepted Paper at ICPC 2025 \
 [Pre-print](https://arxiv.org/abs/2501.10542)
 > Asif Mohammed Samir and Mohammad Masudur Rahman. _The 33rd IEEE/ACM International
-Conference on Program Comprehension (ICPC 2025), Ottawa, Canada. _
+Conference on Program Comprehension (ICPC 2025), Ottawa, Canada._
 
 ##
 ## Abstract
