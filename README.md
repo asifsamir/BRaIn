@@ -171,17 +171,16 @@ If you find this work useful for your research, please consider citing it.
 [Improved IR-based Bug Localization with Intelligent Relevance Feedback](https://conf.researchr.org/details/icpc-2025/icpc-2025-research/32/Improved-IR-based-Bug-Localization-with-Intelligent-Relevance-Feedback)
 
 ```bibtex
-@inproceedings{samir2025improvedirbasedbuglocalization,
+@inproceedings{BRaIn_samir2025improvedirbasedbuglocalization,
   title     = {Improved IR-based Bug Localization with Intelligent Relevance Feedback},
   author    = {Asif Mohammed Samir and Mohammad Masudur Rahman},
   booktitle = {Proceedings of the 33rd IEEE/ACM International Conference on Program Comprehension (ICPC)},
-  year      = {2025},
-  note      = {To appear}
+  year      = {2025}
 }
 
 
 [//]: # (   )
-@misc{samir2025improvedirbasedbuglocalization,
+@misc{BRaIn_samir2025improvedirbasedbuglocalization,
   title        = {Improved IR-based Bug Localization with Intelligent Relevance Feedback},
   author       = {Asif Mohammed Samir and Mohammad Masudur Rahman},
   year         = {2025},
@@ -190,5 +189,6 @@ If you find this work useful for your research, please consider citing it.
   primaryClass = {cs.SE},
   url          = {https://arxiv.org/abs/2501.10542}
 }
+
 
 
