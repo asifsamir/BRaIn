@@ -22,7 +22,7 @@ Software bugs pose a significant challenge during development and maintenance, a
    * `README.md`: Contains the project documentation.
 
 ## Dataset
-   The refined Bench4BL dataset used for this project is provided in the `data` directory in json format. The dataset contains information about the location of the bus stops in the city of Bengaluru. The dataset contains the following fields:
+   The refined Bench4BL dataset used for this project is provided in the `data` directory in json format. The dataset contains the following fields:
    - `bug_id`: Unique identifier for the bug.
    - `bug_title`: Title of the bug.
    - `bug_description`: Description of the bug.
@@ -163,33 +163,32 @@ Learn more about PyTorch with CUDA support and working with other versions [here
 
 
 
-[//]: # (## Citation)
+## Citation
 
-[//]: # (Consider citing our work if you find it useful for your research.)
+If you find this work useful for your research, please consider citing it.
 
-[//]: # ()
-[//]: # (### ArXiv)
+### ICPC 2025 (Conference Version)
+[Improved IR-based Bug Localization with Intelligent Relevance Feedback](https://conf.researchr.org/details/icpc-2025/icpc-2025-research/32/Improved-IR-based-Bug-Localization-with-Intelligent-Relevance-Feedback)
 
-[//]: # (```)
+```bibtex
+@inproceedings{samir2025improvedirbasedbuglocalization,
+  title     = {Improved IR-based Bug Localization with Intelligent Relevance Feedback},
+  author    = {Asif Mohammed Samir and Mohammad Masudur Rahman},
+  booktitle = {Proceedings of the 33rd IEEE/ACM International Conference on Program Comprehension (ICPC)},
+  year      = {2025},
+  note      = {To appear}
+}
 
-[//]: # (@misc{samir2025improvedirbasedbuglocalization,)
-
-[//]: # (      title={Improved IR-based Bug Localization with Intelligent Relevance Feedback}, )
-
-[//]: # (      author={Asif Mohammed Samir and Mohammad Masudur Rahman},)
-
-[//]: # (      year={2025},)
-
-[//]: # (      eprint={2501.10542},)
-
-[//]: # (      archivePrefix={arXiv},)
-
-[//]: # (      primaryClass={cs.SE},)
-
-[//]: # (      url={https://arxiv.org/abs/2501.10542}, )
-
-[//]: # (})
-
-[//]: # (```)
 
 [//]: # (   )
+@misc{samir2025improvedirbasedbuglocalization,
+  title        = {Improved IR-based Bug Localization with Intelligent Relevance Feedback},
+  author       = {Asif Mohammed Samir and Mohammad Masudur Rahman},
+  year         = {2025},
+  eprint       = {2501.10542},
+  archivePrefix= {arXiv},
+  primaryClass = {cs.SE},
+  url          = {https://arxiv.org/abs/2501.10542}
+}
+
+
